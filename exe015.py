@@ -1,0 +1,6 @@
+km=float(input("Quantidade de KM rodados? "))
+dias=int(input("Quantidade de Dias? "))
+total=(dias*60)+(km*0.15)
+print("Pagara o valor de {}R$ pelos dias rodados".format(dias*60))
+print("Pagara o valor de {}R$".format(km*0.15))
+print("O valor total será de {}".format(total))
