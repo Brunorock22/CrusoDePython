@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67f8067a-7490-4cd4-8e46-e1c87ca90a52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exe065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe070.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67f8067a-7490-4cd4-8e46-e1c87ca90a52" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exe070.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="357">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -119,7 +111,7 @@
         <option value="Bruno Camargos &lt;brunocamargos2009@hotmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -315,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555519385088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python exercicios">
+      <created>1558648824525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558648824525</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -535,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exe070.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="357">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
